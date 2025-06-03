@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "算法交易掘金(Algo Trading Goldmine)"
-  text: ""
+  name: "算法交易掘金"
+  text: "AlgoTrading Goldmine"
   tagline: 探索算法交易的无限可能！
   actions:
     - theme: brand
