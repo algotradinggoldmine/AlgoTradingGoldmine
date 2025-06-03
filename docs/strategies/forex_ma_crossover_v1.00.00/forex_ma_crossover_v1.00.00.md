@@ -7,7 +7,7 @@
 
 该策略旨在捕捉外汇市场在短期内的短期趋势。它使用较短周期的移动平均线来识别入场时机，并结合价格行为确认来提高信号的质量，减少噪音影响。
 
-<a href="./forex_ma_crossover_v1.00.00.py" target="_blank">代码文件</a>
+<a href="https://github.com/algotradinggoldmine/AlgoTradingGoldmine/blob/main/docs/strategies/forex_ma_crossover_v1.00.00/forex_ma_crossover_v1.00.00.py" target="_blank">代码文件</a>
 
 
 ## 交易规则 :
