@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Algo Trading Goldmine"
-  text: "Algo Trading Goldmine"
-  tagline: My great project tagline
+  name: "算法交易掘金(Algo Trading Goldmine)"
+  text: ""
+  tagline: 探索算法交易的无限可能！
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 交易策略
+      link: /strategies-index
+#    - theme: alt
+#      text: API Examples
+#      link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 外汇
+    details: AUD CAD CHF EUR GBP JPY NZD USD
+  - title: 股票
+    details: AAPL MSFT NVDA GOOGL AMZN TSLA
+  - title: 加密货币
+    details: BTC ETH USDT BNB SOL XRP DOGE
 ---
 
