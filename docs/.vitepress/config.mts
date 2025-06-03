@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // base: '/AlgoTradingGoldmine/',
+  base: '/AlgoTradingGoldmine123/',
   title: "Algo Trading Goldmine",
   description: "Algo Trading Goldmine",
   themeConfig: {
